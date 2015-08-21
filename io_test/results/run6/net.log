@@ -1,0 +1,51 @@
+>>>>>>> Test 2 (10 15 2 0.500000)Find ceph nodes: cz7644 cz7645 cz7646 cz7647 cz7648 
+Start monitoring
+Will sleep for 751 seconds till 20:37:40
+Done, collecting results
+IO: Read MB/ Write MB
+ 48131.2 320129
+ 31792.4 320607
+ 25973.3 324591
+ 22819.2 326227
+ 28.7305 396552
+Net: RX MB/ TX MB
+cz7644 145489 206245
+cz7645 152230 157734
+cz7646 158724 145822
+cz7647 159756 139775
+cz7648 198264 24024.4
+Done, results are stored in /tmp/ceph_stats_ccb25a3c-6323-47ff-a9ac-67ee724b6114.tar.gz
+>>>>>>> Test 3 (10 15 4 0.500000)Find ceph nodes: cz7644 cz7645 cz7646 cz7647 cz7648 
+Start monitoring
+Will sleep for 751 seconds till 21:50:51
+Done, collecting results
+IO: Read MB/ Write MB
+ 63149.2 293004
+ 37772.8 297727
+ 30839.4 305869
+ 27598.1 305188
+ 43.9805 484945
+Net: RX MB/ TX MB
+cz7644 130796 221040
+cz7645 141086 160106
+cz7646 150148 142796
+cz7647 150523 138983
+cz7648 241859 34336.1
+Done, results are stored in /tmp/ceph_stats_d7c3f030-0135-4615-954a-54db357259f6.tar.gz
+>>>>>>> Test 4 (10 15 1 0.500000)Find ceph nodes: cz7644 cz7645 cz7646 cz7647 cz7648 
+Start monitoring
+Will sleep for 751 seconds till 22:50:30
+Done, collecting results
+IO: Read MB/ Write MB
+ 27370.6 313667
+ 16331.7 311456
+ 13079.7 313142
+ 12118.3 312685
+ 2.22656 218361
+Net: RX MB/ TX MB
+cz7644 147287 160720
+cz7645 149688 130723
+cz7646 153510 128179
+cz7647 153055 122906
+cz7648 108721 12472.8
+Done, results are stored in /tmp/ceph_stats_8b3c09a7-c793-43e7-a06e-9985e4b36b75.tar.gz
